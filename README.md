@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Mehran  
+🚀 Frontend Developer | React, Next.js, Tailwind  
+🔧 Building sleek & high-performance UIs  
 
-<!--
-**meranHM/meranHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 My Projects  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skills  
+- **Languages:** JavaScript, TypeScript, HTML, CSS  
+- **Frameworks & Tools:** React, Next.js, Tailwind, Git, Redux, Vite
+- **Deployment:** Vercel, Netlify, GitHub Pages  
+
+## 📫 Connect with Me  
+
