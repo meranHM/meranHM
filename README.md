@@ -11,4 +11,5 @@
 - **Deployment:** Vercel, Netlify, GitHub Pages  
 
 ## 📫 Connect with Me  
+**mehranshahani6@gmail.com**
 
