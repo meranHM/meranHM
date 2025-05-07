@@ -37,7 +37,7 @@
   <ul>
     <li>🛠️ A SaaS app for creating sleek, dynamic presentations</li>
     <li>Next.js, GSAP, TailwindCSS</li>
-    <li><a href="https://github.com/meranHM/SlideForge">GitHub Repo</a></li>
+    <li>[GitHub Repo (Coming Soon)]()></li>
   </ul>
 </details>
 
@@ -47,7 +47,7 @@
     <li>👜 An e-commerce boutique site focused on style</li>
     <li>React, TailwindCSS</li>
     <li>Custom UI components and smooth product navigation</li>
-    <li><a href="https://github.com/meranHM/vanta-boutiqe-ecommerce">GitHub Repo</a></li>
+    <li>[GitHub Repo (Coming Soon)]()</li>
   </ul>
 </details>
 
