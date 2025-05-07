@@ -37,7 +37,6 @@
   <ul>
     <li>🛠️ A SaaS app for creating sleek, dynamic presentations</li>
     <li>Next.js, GSAP, TailwindCSS</li>
-    <li>[GitHub Repo (Coming Soon)]()></li>
   </ul>
 </details>
 
@@ -47,7 +46,6 @@
     <li>👜 An e-commerce boutique site focused on style</li>
     <li>React, TailwindCSS</li>
     <li>Custom UI components and smooth product navigation</li>
-    <li>[GitHub Repo (Coming Soon)]()</li>
   </ul>
 </details>
 
