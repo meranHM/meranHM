@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehran  
-🚀 Frontend Developer | React, Next.js, Tailwind  
-🔧 Building sleek & high-performance UIs  
+ Frontend Developer | React, Next.js, Tailwind  
+ Building sleek & high-performance UIs  
 
 ## 📌 My Projects  
  
