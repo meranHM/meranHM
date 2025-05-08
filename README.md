@@ -8,7 +8,7 @@
   <summary><strong><a href="https://mehranshahani.com">mehranshahani.com</a></strong></summary>
   <ul>
     <li>💻 Personal cyberpunk-themed portfolio</li>
-    <li>Built with Next.js, TailwindCSS, Zustand, Framer Motion</li>
+    <li>Built with Next.js, TailwindCSS, Redux, Framer Motion</li>
     <li>CLI-style UI with game-inspired project navigation</li>
     <li><a href="https://github.com/meranHM/mehranshahani">GitHub Repo</a></li>
   </ul>
