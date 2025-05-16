@@ -19,7 +19,7 @@
   <ul>
     <li>🖼️ Minimal portfolio template for artists</li>
     <li>React + TailwindCSS, keyboard-navigable Lightbox</li>
-    <li><a href="https://github.com/meranHM/focusframe">GitHub Repo</a></li>
+    <li><a href="https://github.com/meranHM/FOCUSFRAME-portfolio">GitHub Repo</a></li>
   </ul>
 </details>
 
