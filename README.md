@@ -15,6 +15,16 @@
 </details>
 
 <details>
+  <summary>VoidLoop (WIP)</strong></summary>
+  <ul>
+    <li>🎧 Portfolio for an audio production company</li>
+    <li>Next.js, Redux, GSAP, Tailwind CSS</li>
+    <li>Smooth ScrollTriggered animations with practical musical features</li>
+    <li><a href="https://github.com/meranHM/VoidLoop">GitHub Repo</a></li>
+  </ul>
+</details>
+
+<details>
   <summary><strong><a href="https://focusframe-portfolio.vercel.app/">FOCUSFRAME</a></strong></summary>
   <ul>
     <li>🖼️ Minimal portfolio template for artists</li>
