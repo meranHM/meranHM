@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary>VoidLoop (WIP)</strong></summary>
+  <summary><a href="https://void-loop.vercel.app/">VoidLoop (WIP)</strong></a></summary>
   <ul>
     <li>🎧 Portfolio for an audio production company</li>
     <li>Next.js, Redux, GSAP, Tailwind CSS</li>
